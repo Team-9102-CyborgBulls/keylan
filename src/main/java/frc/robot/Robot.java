@@ -187,3 +187,5 @@ DutyCycleEncoder arm_encoder = new DutyCycleEncoder(1);
   @Override
   public void simulationPeriodic() {}
 }
+
+//il n'y a plus rien passer cette ligne
